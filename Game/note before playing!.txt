@@ -1,0 +1,2 @@
+please gem install minigl, gosu and bg_utils
+before playing on command ruby
